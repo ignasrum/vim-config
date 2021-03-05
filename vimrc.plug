@@ -1,0 +1,22 @@
+call plug#begin('~/.vim/plugged')
+
+" Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+
+" Syntastic - syntax check
+Plug 'scrooloose/syntastic'
+
+Plug 'udalov/kotlin-vim'
+
+Plug 'sheerun/vim-polyglot'
+
+" tabular - for lining up text
+Plug 'godlygeek/tabular'
+
+" Status bar
+Plug 'vim-airline/vim-airline'
+
+" Colors
+Plug 'flazz/vim-colorschemes'
+
+call plug#end()
