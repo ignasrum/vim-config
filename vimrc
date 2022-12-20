@@ -21,3 +21,5 @@ endif
 " Colors - murphy, elflord, hornet, hotpot, potts
 set background=dark
 colorscheme tender 
+
+set belloff=all
